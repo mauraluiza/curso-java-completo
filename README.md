@@ -24,3 +24,15 @@ Durante o curso, as seguintes ferramentas e tecnologias serão utilizadas para o
 - **Spring Boot** (Framework para aplicações Java)
 - **Spring Data JPA** (Repositórios JPA com Spring)
 - **Spring Data MongoDB** (Repositórios MongoDB com Spring)
+
+## 💻 Como rodar na minha máquina?
+
+1. Abra o arquivo .java correspondente ao exercício ou projeto.
+2. Copie o código fonte do arquivo.
+3. Cole o código na sua IDE de preferência (como IntelliJ IDEA, Eclipse ou VS Code).
+4. Compile e execute o código para testar as soluções.
+
+## 🫂 Contribuições
+
+Embora este repositório seja voltado para estudos pessoais, sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Você também pode entrar em contato comigo no meu [LinkedIn](https://www.linkedin.com/in/maura-luiza-silva-9b83a6208/). 
