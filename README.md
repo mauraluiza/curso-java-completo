@@ -6,10 +6,8 @@ Este repositório contém os exercícios, anotações e projetos realizados dura
 
 Os arquivos serão divididos conforme os conteúdos abordados no curso. Atualmente, os seguintes tópicos estão sendo/foram trabalhados:
 
-1. **Lógica de Programação**
-2. **Estrutura Condicional**
-3. **Estrutura Sequencial**
-4. **Estrutura Repetitiva**
+1. **Lógica de Programação:** Algoritmos, entrada/saída de dados, estruturas sequencial/repetitiva/condicional, funções matemáticas e de String, operações para manipulação de tipos primitivos e dados binários;
+2. **Programação Orientada a Objetos:** Classes, métodos, encapsulamento;
 
 ## 🤖 Ferramentas e Tecnologias Utilizadas
 
