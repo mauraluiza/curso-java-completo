@@ -3,7 +3,7 @@ import entities.Triangle; // importa a classe Triangle do pacote entities
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramComPOO {
+public class ProgramaComPOO {
 	public static void main(String[] args) {
 		
 		/*
