@@ -18,8 +18,8 @@ public class Product {
 		this.quantity -= quantity;
 	}
 	
-	public String toString() {
-		return name
+	public String toString() { // toString é um método da classe String capaz de formatar a saída de dados quando identifica um comando de saída na main
+		return name // retorna a seguinte formatação na variável name quando dentro de um print
 				+", $ " 
 				+ String.format("%.2f", price) 
 				+ ", " 
