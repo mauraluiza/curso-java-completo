@@ -1,6 +1,6 @@
 package application;
 
-import util.Calculator; 
+import util.Calculator; // Importa a classe Calculator, mas também é possível escrever tudo em um único código fonte com modificador de acesso static nos métodos
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -32,7 +32,8 @@ public class MembrosEstaticos {
 		System.out.printf("PI value: %.2f%n", PI);
 		sc.close();
 	}
-	
+
+	/* O CÓDIGO ABAIXO TAMBÉM PODE SER SUBSTITUÍDO PELA CLASSE CALCULATOR
 	public static double circumference(double radius) { // static para que possa ser chamado na main (a main também é static, static acessa static)
 		return 2.0 * PI * radius;
 	}
@@ -40,5 +41,5 @@ public class MembrosEstaticos {
 	public static double volume(double radius) { // static para que possa ser chamado na main (a main também é static, static acessa static)
 		return 4.0 * PI * radius * radius * radius / 3.0;
 	}
-
+	*/
 }
